@@ -1,0 +1,1 @@
+# zustand-firebase-ts-project
